@@ -1,4 +1,4 @@
-package com.JobAPI.JobAPI;
+package com.JobAPI.JobAPI.controller;
 
 import com.JobAPI.JobAPI.model.JobPost;
 import org.springframework.beans.factory.annotation.Autowired;
